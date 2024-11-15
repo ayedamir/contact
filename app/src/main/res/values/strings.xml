@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mycontact2</string>
+    <string name="txtname">txtName</string>
+    <string name="txtnum">txtnum</string>
+    <string name="open_contact">Open Contact</string>
+
+</resources>
